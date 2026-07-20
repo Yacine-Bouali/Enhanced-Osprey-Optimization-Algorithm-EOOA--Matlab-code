@@ -8,7 +8,7 @@
 > accuracy and convergence behavior.
 
 ---
-[![Python Version](https://img.shields.io/badge/Python-version-3776AB?logo=python&logoColor=white)]([https://github.com/your-username/your-python-repo](https://github.com/Yacine-Bouali/Enhanced-Osprey-Optimization-Algorithm-EOOA-Python-code))
+[![Python Version](https://img.shields.io/badge/Python-version-3776AB?logo=python&logoColor=white)](https://github.com/Yacine-Bouali/Enhanced-Osprey-Optimization-Algorithm-EOOA-Python-code)
 
 ## 📖 Overview
 
