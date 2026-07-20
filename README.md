@@ -8,6 +8,7 @@
 > accuracy and convergence behavior.
 
 ---
+[![Python Version](https://img.shields.io/badge/Python-version-3776AB?logo=python&logoColor=white)]([https://github.com/your-username/your-python-repo](https://github.com/Yacine-Bouali/Enhanced-Osprey-Optimization-Algorithm-EOOA-Python-code))
 
 ## 📖 Overview
 
@@ -29,11 +30,11 @@ a wide range of global optimization tasks.
 
 If you use this code in your research, please cite:
 ```bibtex
-@article{yourname2024eooa,
-  title   = {Enhanced Osprey Optimization Algorithm for Global Optimization},
-  author  = {Your Name},
-  journal = {Journal Name},
-  year    = {2024},
+@article{yourname2026eooa,
+  title   = {Enhanced Osprey Optimization Algorithm for Global Optimization with Application to PEM Fuel Cell Parameter Identification},
+  author  = {Yacine Bouali & Basem Alamri},
+  journal = {Biomimetics},
+  year    = {2026},
   doi     = {your-doi-here}
 }
 ```
