@@ -8,7 +8,7 @@
 > accuracy and convergence behavior.
 
 ---
-[![Python Version](https://img.shields.io/badge/Python-version-3776AB?logo=python&logoColor=white)](https://github.com/Yacine-Bouali/Enhanced-Osprey-Optimization-Algorithm-EOOA-Python-code)
+A Python implementation of this code is available here: [![Python Version](https://img.shields.io/badge/Python-version-3776AB?logo=python&logoColor=white)](https://github.com/Yacine-Bouali/Enhanced-Osprey-Optimization-Algorithm-EOOA-Python-code)
 
 ## 📖 Overview
 
@@ -99,6 +99,16 @@ fobj = @YourFunction;
 
 ---
 
+### Internal control parameters
+
+| Parameter | Default | Description |
+|---|---|---|
+| `lambda_` | `3` | Steepness of the adaptive decay (range 2–4) |
+| `CR` | `0.9` | DE crossover probability (range 0.1–0.9)|
+| `F_max` | `0.9` | Upper bound of adaptive DE scaling factor |
+| `F_min` | `0.3` | Lower bound of adaptive DE scaling factor |
+
+
 ## 📊 Outputs
 
 | Output | Description |
@@ -110,9 +120,8 @@ fobj = @YourFunction;
 ---
 
 ## 📬 Contact
-
-For questions or collaborations, feel free to open an 
-[issue](https://github.com/your-username/EOOA/issues) or reach out via email.
+Feel free to reach out for any questions or collaborations via LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yacine%20Bouali-blue?logo=linkedin)](https://www.linkedin.com/in/yacinebouali3538)
 
 ---
 
