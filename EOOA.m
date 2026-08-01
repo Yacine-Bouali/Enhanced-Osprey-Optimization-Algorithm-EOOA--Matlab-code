@@ -60,7 +60,7 @@ for t = 1:Tmax
     %% ─────────── Three-Phase Agent Update Loop ───────────────────────────
     for i = 1:SearchAgents
 
-        %% ── PHASE 1: Exploration — Adaptive Fish Selection ────────────────
+        %% ── PHASE 1: Exploration ────────────────
         fish_position = find(fit < fit(i));
         if isempty(fish_position)
             selected_fish = xbest;
@@ -79,7 +79,7 @@ for t = 1:Tmax
         if fit_new < fit(i), X(i,:) = X_new; fit(i) = fit_new; end % [Eq. 6]
         % END Phase 1 ──────────────────────────────────────────────────────
 
-        %% ── PHASE 2: Exploitation — Original OOA Carry Equation ───────────
+        %% ── PHASE 2: Exploitation ───────────
         %  Retained unchanged from the original OOA (linear 1/t decay).
         X_new = X(i,:) + (lb + rand*(ub-lb)) / t;                 % [Eq. 7]
         X_new = max(X_new, lb); X_new = min(X_new, ub);
@@ -87,7 +87,7 @@ for t = 1:Tmax
         if fit_new < fit(i), X(i,:) = X_new; fit(i) = fit_new; end % [Eq. 8]
         % END Phase 2 ──────────────────────────────────────────────────────
 
-        %% ── PHASE 3: DE/rand/1 + Binomial Crossover (NEW PHASE) ──────────
+        %% ── PHASE 3: DE-based (NEW PHASE) ──────────
         %  Not present in original OOA. Adds cross-agent information sharing.
         % Select 3 distinct random agents different than i
         candidates = randperm(SearchAgents, 4);
