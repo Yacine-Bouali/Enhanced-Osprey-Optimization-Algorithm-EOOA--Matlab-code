@@ -97,8 +97,6 @@ fobj = @YourFunction;
 | `lb` | Lower bound |
 | `ub` | Upper bound |
 
----
-
 ### Internal control parameters
 
 | Parameter | Default | Description |
