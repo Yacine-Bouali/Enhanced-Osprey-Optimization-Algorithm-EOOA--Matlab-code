@@ -124,7 +124,3 @@ Feel free to reach out for any questions or collaborations via LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yacine%20Bouali-blue?logo=linkedin)](https://www.linkedin.com/in/yacinebouali3538)
 
 ---
-
-## 📝 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
