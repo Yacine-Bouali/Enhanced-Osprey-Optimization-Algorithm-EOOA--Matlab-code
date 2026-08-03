@@ -1,8 +1,7 @@
 %==========================================================================
 % Enhanced Osprey Optimization Algorithm (EOOA)
 % DOI: https://doi.org/10.3390/biomimetics11080545
-%--------------------------------------------------------------------------
-% Developed by : Yacine Bouali
+%
 %--------------------------------------------------------------------------
 %
 % If you use this code in your research, please cite:
