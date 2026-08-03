@@ -109,7 +109,7 @@ fobj = @YourFunction;
 
 | Parameter | Default | Description |
 |---|---|---|
-| `lambda_` | `3` | Steepness of the adaptive decay (range 2–4) |
+| `lambda` | `3` | Steepness of the adaptive decay (range 2–4) |
 | `CR` | `0.9` | DE crossover probability (range 0.1–0.9)|
 | `F_max` | `0.9` | Upper bound of adaptive DE scaling factor |
 | `F_min` | `0.3` | Lower bound of adaptive DE scaling factor |
@@ -130,7 +130,9 @@ fobj = @YourFunction;
 Feel free to reach out for any questions or collaborations:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yacine%20Bouali-blue?logo=linkedin)](https://www.linkedin.com/in/yacinebouali3538)
+
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Yacine%20Bouali-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yacine-Bouali?ev=hdr_xprf)
+
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Yacine%20Bouali-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=p0g9_7QAAAAJ&hl=en)
 
 ---
