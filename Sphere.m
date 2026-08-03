@@ -1,15 +1,12 @@
 %==========================================================================
 % Enhanced Osprey Optimization Algorithm (EOOA)
-%--------------------------------------------------------------------------
-% Developed by : Yacine Bouali
-%--------------------------------------------------------------------------
-% If you use this code in your research, please cite the following paper:
+% DOI: https://doi.org/10.3390/biomimetics11080545
 %
-% Author(s)  : Yacine Bouali
-% Title      : [Full Paper Title]
-% Journal    : [Journal / Conference Name]
-% Year       : [Year]
-% DOI        : [https://doi.org/xxxxxxxxxx]
+%--------------------------------------------------------------------------
+%
+% If you use this code in your research, please cite:
+% Bouali, Y.; Alamri, B. "Enhanced Osprey Optimization Algorithm for Global Optimization with Application to PEM Fuel Cell Parameter Identification," Biomimetics, vol. 11, no. 8, 2026.
+% DOI: https://doi.org/10.3390/biomimetics11080545
 %==========================================================================
 
 %% =========================================================
