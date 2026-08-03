@@ -5,8 +5,8 @@
 %--------------------------------------------------------------------------
 %
 % If you use this code in your research, please cite:
-% Bouali, Y.; Alamri, B. "Enhanced Osprey Optimization Algorithm for Global Optimization with Application to PEM Fuel Cell Parameter Identification," Biomimetics, vol. 11, no. 8, 2026.
-% DOI: https://doi.org/10.3390/biomimetics11080545
+% Bouali, Yacine, and Basem Alamri. “Enhanced Osprey Optimization Algorithm for Global Optimization with Application to PEM Fuel Cell Parameter Identification.” 
+% Biomimetics, vol. 11, no. 8, Aug. 2026, p. 545, https://doi.org/10.3390/biomimetics11080545.
 %==========================================================================
 
 %%
