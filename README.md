@@ -30,12 +30,16 @@ a wide range of global optimization tasks.
 
 If you use this code in your research, please cite:
 ```bibtex
-@article{yourname2026eooa,
-  title   = {Enhanced Osprey Optimization Algorithm for Global Optimization with Application to PEM Fuel Cell Parameter Identification},
-  author  = {Yacine Bouali & Basem Alamri},
-  journal = {Biomimetics},
-  year    = {2026},
-  doi     = {your-doi-here}
+@article{Bouali2026Enhanced,
+  author       = {Yacine Bouali and Basem Alamri},
+  title        = {Enhanced Osprey Optimization Algorithm for Global Optimization with Application to PEM Fuel Cell Parameter Identification},
+  journal      = {Biomimetics},
+  year         = {2026},
+  volume       = {11},
+  number       = {8},
+  doi          = {10.3390/biomimetics11080545},
+  url          = {https://www.mdpi.com/2313-7673/11/8/545},
+  publisher    = {MDPI}
 }
 ```
 
