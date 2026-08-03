@@ -1,8 +1,9 @@
 # 🦅 Enhanced Osprey Optimization Algorithm (EOOA)
+[![Paper](https://img.shields.io/badge/Paper-MDPI%20Biomimetics-blue)](https://www.mdpi.com/2313-7673/11/8/545)
 [![MATLAB](https://img.shields.io/badge/MATLAB-Compatible-orange)](https://www.mathworks.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
-[![Paper](https://img.shields.io/badge/Paper-MDPI%20Biomimetics-blue)](https://www.mdpi.com/2313-7673/11/8/545)
+
 
 > A MATLAB implementation of an enhanced variant of the Osprey Optimization 
 > Algorithm (OOA) for solving global optimization problems with improved 
@@ -125,7 +126,11 @@ fobj = @YourFunction;
 ---
 
 ## 📬 Contact
-Feel free to reach out for any questions or collaborations via LinkedIn:
+
+Feel free to reach out for any questions or collaborations:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yacine%20Bouali-blue?logo=linkedin)](https://www.linkedin.com/in/yacinebouali3538)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Yacine%20Bouali-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yacine-Bouali?ev=hdr_xprf)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Yacine%20Bouali-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=p0g9_7QAAAAJ&hl=en)
 
 ---
