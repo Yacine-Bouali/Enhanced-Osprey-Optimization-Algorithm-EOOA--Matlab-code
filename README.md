@@ -2,6 +2,7 @@
 [![MATLAB](https://img.shields.io/badge/MATLAB-Compatible-orange)](https://www.mathworks.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
+[![Paper](https://img.shields.io/badge/Paper-MDPI%20Biomimetics-blue)](https://www.mdpi.com/2313-7673/11/8/545)
 
 > A MATLAB implementation of an enhanced variant of the Osprey Optimization 
 > Algorithm (OOA) for solving global optimization problems with improved 
@@ -23,6 +24,8 @@ common limitations found in standard optimization algorithms, including:
 The EOOA introduces targeted modifications to the original OOA's search 
 mechanisms, resulting in a more robust and accurate optimizer suitable for 
 a wide range of global optimization tasks.
+
+📄 Read the full paper: [Enhanced Osprey Optimization Algorithm for Global Optimization with Application to PEM Fuel Cell Parameter Identification](https://www.mdpi.com/2313-7673/11/8/545)
 
 ---
 
